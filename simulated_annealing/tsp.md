@@ -26,7 +26,7 @@ Multiple highs and lows in the energy and temperature plot are due to the reheat
 <br>
 <font size="5">
 
-Using random.uniform() function:
+**Using random.uniform() function:**
 </font>
 <font size="3">
 
@@ -46,7 +46,7 @@ Final solution:
 
 <font size="5">
 
-Using random.multivariate_normal function:
+**Using random.multivariate_normal function:**
 </font>
 
 <font size="3">
@@ -66,7 +66,7 @@ Final solution:
 
 <font size="5">
 
-Randomly generating points in 9 clusters
+**Randomly generating points in 9 clusters**
 </font>
 
 <font size="3">

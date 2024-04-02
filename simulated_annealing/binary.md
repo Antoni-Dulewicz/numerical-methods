@@ -22,7 +22,7 @@ Multiple highs and lows in the energy and temperature plot are due to the reheat
 <br>
 <font size="5">
 
-Using the four-neighbours energy function:
+**Using the four-neighbours energy function:**
 </font>
 <font size="3">
 
@@ -42,7 +42,7 @@ Final solution:
 
 <font size="5">
 
-Using the eight-neighbours energy function:
+**Using the eight-neighbours energy function:**
 </font>
 <font size="3">
 
@@ -63,7 +63,7 @@ Final solution:
 
 <font size="5">
 
-Using the 2-corners energy function for smaller img:
+**Using the 2-corners energy function for smaller img:**
 </font>
 <font size="3">
 
@@ -84,7 +84,7 @@ Final solution:
 
 <font size="5">
 
-Using the 2-corners energy function for bigger img:
+**Using the 2-corners energy function for bigger img:**
 </font>
 <font size="3">
 
@@ -105,7 +105,7 @@ Final solution:
 
 <font size="5">
 
-Using the 4-corners energy function for bigger img:
+**Using the 4-corners energy function for bigger img:**
 </font>
 <font size="3">
 
