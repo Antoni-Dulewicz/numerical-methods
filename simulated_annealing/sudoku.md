@@ -50,9 +50,11 @@ With energy equals to: 49
 ```
 
 Energy plot for the solution:
+
 ![energy](sudoku/output/energy_plot.png)
 
 Temperature plot for the solution:
+
 ![temp](sudoku/output/temp_plot.png)
 
 Solution:
