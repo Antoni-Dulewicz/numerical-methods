@@ -25,7 +25,8 @@ Multiple highs and lows in the energy and temperature plot are due to the reheat
 Using the four-neighbours energy function:
 </font>
 <font size="3">
- This is the energy plot for the solution:
+
+This is the energy plot for the solution:
 
 ![energy](binary_img/images_for_md/output_fours/energy_plot.png)
 
@@ -44,7 +45,8 @@ Final solution:
 Using the eight-neighbours energy function:
 </font>
 <font size="3">
- This is the energy plot for the solution:
+
+This is the energy plot for the solution:
 
 ![energy](binary_img/images_for_md/output_eights/energy_plot.png)
 
@@ -64,7 +66,8 @@ Final solution:
 Using the 2-corners energy function for smaller img:
 </font>
 <font size="3">
- This is the energy plot for the solution:
+
+This is the energy plot for the solution:
 
 ![energy](binary_img/images_for_md/output_corners_10/energy_plot.png)
 
@@ -84,7 +87,8 @@ Final solution:
 Using the 2-corners energy function for bigger img:
 </font>
 <font size="3">
- This is the energy plot for the solution:
+
+This is the energy plot for the solution:
 
 ![energy](binary_img/images_for_md/output_corners/energy_plot.png)
 
@@ -104,7 +108,8 @@ Final solution:
 Using the 4-corners energy function for bigger img:
 </font>
 <font size="3">
- This is the energy plot for the solution:
+
+This is the energy plot for the solution:
 
 ![energy](binary_img/images_for_md/output_4_corners/energy_plot.png)
 
