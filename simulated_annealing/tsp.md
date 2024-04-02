@@ -29,17 +29,18 @@ Multiple highs and lows in the energy and temperature plot are due to the reheat
 Using random.uniform() function:
 </font>
 <font size="3">
- This is the energy plot for the solution:
+
+This is the energy plot for the solution:
 
 ![energy](tsp/images_for_md/uniform/energy_plot.png)
 
 Temperature plot for the solution:
 
-![temperature](tsp\images_for_md\uniform\temparature_plot.png)
+![temperature](tsp/images_for_md//uniform/temparature_plot.png)
 
 Final solution:
 
-![solution](tsp\images_for_md/uniform/gif_output.gif)
+![solution](tsp/images_for_md/uniform/gif_output.gif)
 
 </font>
 
@@ -55,11 +56,11 @@ Using random.multivariate_normal function:
 
 Temperature plot for the solution:
 
-![temperature](tsp\images_for_md\normal\temparature_plot.png)
+![temperature](tsp/images_for_md/normal/temparature_plot.png)
 
 Final solution:
 
-![solution](tsp\images_for_md/normal/gif_output.gif)
+![solution](tsp/images_for_md/normal/gif_output.gif)
 
 </font>
 
@@ -75,11 +76,11 @@ Randomly generating points in 9 clusters
 
 Temperature plot for the solution:
 
-![temperature](tsp\images_for_md\clusters\temparature_plot.png)
+![temperature](tsp/images_for_md/clusters/temparature_plot.png)
 
 Final solution:
 
-![solution](tsp\images_for_md/clusters/gif_output.gif)
+![solution](tsp/images_for_md/clusters/gif_output.gif)
 
 </font>
 
