@@ -72,8 +72,8 @@ def simulated_annealing(img_size, density, max_iter, initial_temp, final_temp,re
     return best_img
 
 #img1 = simulated_annealing(10, 0.5, 50000, 10, 0.000000001,0.001, 0.9999,Energytype.FOUR,'output_fours')
-#img2 = simulated_annealing(10, 0.5, 500000, 10, 0.000000001,0.001, 0.9999,Energytype.EIGHT,'output_eights')
-img3 = simulated_annealing(30, 0.5, 1100000, 10, 0.000000001,0.001, 0.9999,Energytype.CORNERS,'output_corners')
+#img2 = simulated_annealing(10, 0.5, 50000, 10, 0.000000001,0.001, 0.9999,Energytype.EIGHT,'output_eights')
+#img3 = simulated_annealing(30, 0.5, 1100000, 10, 0.000000001,0.001, 0.9999,Energytype.CORNERS,'output_corners')
 #img3 = simulated_annealing(10, 0.5, 100000, 10, 0.000000001,0.001, 0.9999,Energytype.BOTH_CORNERS,'output_corners')
 
 
