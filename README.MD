@@ -10,6 +10,7 @@ Feel free to explore my projects:
 <li><a href="simulated_annealing/README.md">Simulated Annealing</a></li>
 <li><a href="solving_electric_circuit/README.md">Solving Electric Circut</a></li>
 <li><a href="search_engine/README.md">Search Engine</a></li>
+<li><a href="dtf/README.md">OCR & Pattern recognition</a></li>
 </ol> 
 
 
