@@ -3,10 +3,6 @@ Creating a search engine
 </font>
 
 <br>
-<font size="1">
-<a href="../README.md" style="color: purple">CLICK HERE TO RETURN TO THE MAIN PAGE</a>
-</font>
-
 
 First, we needed to install large amount of data to be able to search through it. 
 
@@ -359,6 +355,3 @@ File name: 14497.txt, similarity value: 0.122535489022774
 </ul>
   
    
-<font size="1">
-<a href="../README.md" style="color: purple">CLICK HERE TO RETURN TO THE MAIN PAGE</a>
-</font>
